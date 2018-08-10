@@ -124,7 +124,7 @@ For documentation, as well as details about the system, see the [Docs](Docs/home
 ## Support
 For bugs and feature requests, please use the issues section of this repository.
 
-Commercial support is also available; contact [Christakis Mina](mailto://christosmina+DoCoMS@gmail.com) for more information.
+Commercial support is also available; contact [POMPLUS Consulting Co. Ltd](mailto://pomplus@protonmail.com) for more information.
 
 ## Contributing
 
@@ -134,7 +134,7 @@ If you'd like to contribute new features, enhancements or bug fixes to DoCoMS, p
 DoCoMS is distributed in the hope that it will be useful, but without any warranty: without even the implied warranty of merchantability or fitness for a particular purpose. While every precaution has been taken in the creation of DoCoMS, in no event shall the creators and contributors of DoCoMS be liable to any party for direct, indirect, special, incidental, or consequential damages, including lost profits, arising out of the use of DoCoMS and/or of information contained in DoCoMS documents and/or from the use of programs and source code that may accompany it, even if the creators of DoCoMS have been advised of the possibility of such damage. DoCoMS is provided on as "as is" basis, and its creators have no obligations to provide maintenance, support, updates, enhancements, or modifications.
 
 ## License ##
-Copyright [Christakis Mina](https://www.linkedin.com/in/chrismina).
+Copyright [POMPLUS Consulting Co. Ltd](http://www.pomplus.vn).
 
 DoCoMS is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
