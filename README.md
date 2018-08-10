@@ -1,9 +1,9 @@
-![DoCoMS Logo](https://raw.githubusercontent.com/chrmina/DoCoMS/master/webroot/img/main.png)
+![POMPLUS Consulting Co. Ltd](https://github.com/namkyodai/docoms/blob/master/webroot/img/pompluslogo-06.png)
 
 # DoCoMS
 > Construction Correspondence Management System
 
-**DEMO**: [DoCoMS Demo](http://christos.heliohost.org/DoCoMS/)
+**DEMO**: [POMPLUS Consulting Co. Ltd](http://www.pomplus.vn)
 
 Login Credentials (login:pass)
 * User -> user:user
